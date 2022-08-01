@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Reactjs
 - 💞️ I’m looking to collaborate on JavaScript 
-- 📫 How to reach me @webdevguy IG
+- 📫 How to reach me @_niyidev IG
 
 <!---
 bamideledev/bamideledev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
