@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bamideledev
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning Reactjs
+- 🌱 I’m currently tushing up my Nodejs knowledge
 - 💞️ I’m looking to collaborate on JavaScript 
 - 📫 How to reach me @_niyidev IG
 
